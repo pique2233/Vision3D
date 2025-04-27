@@ -32,3 +32,4 @@
 This work is built on many amazing open source projects, thanks to all the authors!
 - [Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) for the wonderful monocular metric depth estimation accuracy;
 - [StableDiffusion](https://github.com/CompVis/stable-diffusion) for the wonderful image generation/optimization ability.
+- [WonderGen](https://github.com/ZiYang-xie/WorldGen) for the World Gen.
